@@ -1,4 +1,4 @@
-;dizideki en kucuk sayiyi bul
+;dizideki en kucuk sayiyi bulan program
 .model small
 .data
     dizi db 13,-10,19,14,-18
