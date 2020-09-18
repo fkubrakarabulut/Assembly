@@ -1,3 +1,4 @@
+;dizi1' in son 3 elemanını ilk 3 elemanı ile toplayıp sonucu bir diziye yazdıran program
 .model small
 .stack 64
 .data  
