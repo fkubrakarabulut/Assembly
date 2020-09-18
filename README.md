@@ -1,2 +1,2 @@
 # Assembly
-System Programs with Assembly Codes
+System Programing Exercise with Assembly Codes
