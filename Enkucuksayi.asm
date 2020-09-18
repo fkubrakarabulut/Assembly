@@ -11,7 +11,7 @@
         mov al,[si];
         inc si
    don: cmp al,[si]
-        jle atla ; jump less or equal=jle  
+        jle atla ; jump less or equal atla
         mov al,[si] ;al'deki buyukse diziden kucuk olani al
   atla: inc si ;
         loop don 
